@@ -1,0 +1,31 @@
+{
+  "name": "react-native-images-browse",
+  "version": "0.1.5",
+  "description": "A maximum number of image viewers that can be placed in a nine-square grid for ReactNative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "images",
+    "ScrollView",
+    "card"
+  ],
+  "author": "hankins",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.50.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HankinsPan/react-native-images-browse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HankinsPan/react-native-images-browse/issues"
+  },
+  "homepage": "https://github.com/HankinsPan/react-native-images-browse#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
