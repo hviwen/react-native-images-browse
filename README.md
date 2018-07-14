@@ -2,7 +2,7 @@
 
 #### Scope of application
 
-📱_Android_ / _ios_
+📱*Android / ios*
 
 
 
@@ -16,9 +16,9 @@
 
 #### Characteristic
 
-- Web image dynamic loading
-- Local replacement of the wrong picture address
-- Skip the single image of the wrong image
+- <u>Web image dynamic loading</u>
+- <u>Local replacement of the wrong picture address</u>
+- <u>Skip the single image of the wrong image</u>
 
 
 
