@@ -1,6 +1,6 @@
 {
   "name": "react-native-images-browse",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A maximum number of image viewers that can be placed in a nine-square grid for ReactNative",
   "main": "index.js",
   "scripts": {
