@@ -79,7 +79,13 @@ constructor(props) {
         }
     }
 
- <ImageBrowse imgSource={this.state.iSource}/>
+render(){
+    return(
+    	<View>
+        	<ImageBrowse imgSource={this.state.iSource}/>
+        </View>
+    )
+}
 ```
 
 
