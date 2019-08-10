@@ -22,34 +22,6 @@
 
 
 
-#### Demo
-
-- arrangement
-
-<center class="half">
-
-<img src="http://pbu5ubzxu.bkt.clouddn.com/18-7-14/82328238.jpg" width="370"/>  <img src="http://pbu5ubzxu.bkt.clouddn.com/18-7-14/11150044.jpg" width="370" />
-
-</center>
-
-<center class="falf">
-
-<img src="http://pbu5ubzxu.bkt.clouddn.com/18-7-14/8817691.jpg" width="370"/> <img src="http://pbu5ubzxu.bkt.clouddn.com/18-7-14/5003688.jpg" width="370"/>
-
-</center>
-
-- Browse
-
-<center class="half">
-
-<img src="http://pbu5ubzxu.bkt.clouddn.com/18-7-14/87589636.jpg" width="370"/> <img src="http://pbu5ubzxu.bkt.clouddn.com/18-7-14/85088044.jpg" width="370"/>  
-
-</center>
-
-
-
-
-
 #### Install
 
 Using npm:
@@ -82,8 +54,8 @@ constructor(props) {
 render(){
     return(
     	<View>
-        	<ImageBrowse imgSource={this.state.iSource}/>
-        </View>
+       <ImageBrowse imgSource={this.state.iSource}/>
+      </View>
     )
 }
 ```
